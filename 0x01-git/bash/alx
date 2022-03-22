@@ -1,5 +1,4 @@
-<<<<<<< CONFLICT (content): Merge conflict in bash/alx
-#!/bin/bash echo "ALX School is so cool!"
-=======
+
+#!/bin/bash echo "ALX School is so cool
+
 #!/bin/bash echo "ALX School"
->>>>>>> update_script
